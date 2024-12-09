@@ -1,0 +1,53 @@
+1. Add Employee
+2. Remove Employee
+3. Display Employees
+4. Exit
+Enter your choice: 1
+Enter Employee ID: 101
+Enter Employee Name: Alice
+Enter Employee Age: 30
+Enter Employee Salary: 50000
+Employee added successfully!
+
+1. Add Employee
+2. Remove Employee
+3. Display Employees
+4. Exit
+Enter your choice: 1
+Enter Employee ID: 102
+Enter Employee Name: Bob
+Enter Employee Age: 25
+Enter Employee Salary: 45000
+Employee added successfully!
+
+1. Add Employee
+2. Remove Employee
+3. Display Employees
+4. Exit
+Enter your choice: 3
+List of Employees:
+Employee [id=101, name=Alice, age=30, salary=50000.0]
+Employee [id=102, name=Bob, age=25, salary=45000.0]
+
+1. Add Employee
+2. Remove Employee
+3. Display Employees
+4. Exit
+Enter your choice: 2
+Enter Employee ID to remove: 101
+Employee removed successfully!
+
+1. Add Employee
+2. Remove Employee
+3. Display Employees
+4. Exit
+Enter your choice: 3
+List of Employees:
+Employee [id=102, name=Bob, age=25, salary=45000.0]
+
+1. Add Employee
+2. Remove Employee
+3. Display Employees
+4. Exit
+Enter your choice: 4
+Exiting Employee Management System...
